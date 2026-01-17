@@ -1,2 +1,4 @@
 # Data_analysis
-Practice notebooks and projects for learning data analysis concepts using Python
+This repository contains data analysis projects using Python.
+It includes data cleaning.
+It includes data cleaning,visualization, and basic insights
